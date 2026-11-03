@@ -96,9 +96,9 @@ Base link: https://github.com/rafiatultalip/G7-IIB-AS3/pull/
 - [#5 Add Sips Brownies home page](https://github.com/rafiatultalip/G7-IIB-AS3/pull/5) (`feature/brownies-home`)
 - [#6 Add about page](https://github.com/rafiatultalip/G7-IIB-AS3/pull/6) (`feature/about`)
 - [#7 Add contact page, with conflict resolved](https://github.com/rafiatultalip/G7-IIB-AS3/pull/7) (`feature/contact`)
-- [#NUMBER Add footer and basic styling](https://github.com/rafiatultalip/G7-IIB-AS3/pull/NUMBER) (`feature/footer`)
-- [#NUMBER Restore home route](https://github.com/rafiatultalip/G7-IIB-AS3/pull/NUMBER) (`fix/home-route`)
-- [#NUMBER Add README](https://github.com/rafiatultalip/G7-IIB-AS3/pull/NUMBER) (`docs/readme`)
+- [#4 Add footer and basic styling](https://github.com/rafiatultalip/G7-IIB-AS3/pull/NUMBER) (`feature/footer`)
+- [#8 Restore home route](https://github.com/rafiatultalip/G7-IIB-AS3/pull/NUMBER) (`fix/home-route`)
+- [#9 Add README](https://github.com/rafiatultalip/G7-IIB-AS3/pull/NUMBER) (`docs/readme`)
 
 ## Release
 
