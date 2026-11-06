@@ -108,8 +108,12 @@ Base link: https://github.com/rafiatultalip/G7-IIB-AS3/pull/
 git tag -a v1.0 -m "Initial release"
 git push origin v1.0
 ```
+ docs/reflection-shifa
+### Shifa 
+My main contribution to the project was developing the Contacts page using Visual Studio Code (VS Code), where I coded and personalised the page to match our website’s design. I then pushed my changes to GitHub and created a pull request to merge my work. Throughout the project, I learned the importance of working in the correct branch instead of directly editing the main branch. I also gained experience in resolving merge conflicts. One challenge our team faced was getting the website to run without errors. We overcame this by troubleshooting together and using AI to identify and resolve the issues.
 ## Individual Reflections
 
 ### Rafiatul
 
 My part was setting up Laravel Herd, creating the GitHub repository, and building the website's Home page in VS Code, and I opened and merged several pull requests for the setup, the Home page, the footer and the route fix. I learned that every change has to go through a pull request that a teammate reviews and approves before it is merged into `main`, and that I have to troubleshoot carefully when something breaks, such as a rejected push or a missing route. One challenge our team overcame was a merge conflict in `routes/web.php`, when the About and Contact pages both added routes, and we resolved it by keeping both routes and then fixed the Home route that went missing afterwards.
+main
