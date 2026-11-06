@@ -108,3 +108,5 @@ Base link: https://github.com/rafiatultalip/G7-IIB-AS3/pull/
 git tag -a v1.0 -m "Initial release"
 git push origin v1.0
 ```
+### Shifa 
+My main contribution to the project was developing the Contacts page using Visual Studio Code (VS Code), where I coded and personalised the page to match our website’s design. I then pushed my changes to GitHub and created a pull request to merge my work. Throughout the project, I learned the importance of working in the correct branch instead of directly editing the main branch. I also gained experience in resolving merge conflicts. One challenge our team faced was getting the website to run without errors. We overcame this by troubleshooting together and using AI to identify and resolve the issues.
