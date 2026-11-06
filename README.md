@@ -111,9 +111,11 @@ git push origin v1.0
 ## Individual Reflections
 
 ### Rafiatul
-
 My part was setting up Laravel Herd, creating the GitHub repository, and building the website's Home page in VS Code, and I opened and merged several pull requests for the setup, the Home page, the footer and the route fix. I learned that every change has to go through a pull request that a teammate reviews and approves before it is merged into `main`, and that I have to troubleshoot carefully when something breaks, such as a rejected push or a missing route. One challenge our team overcame was a merge conflict in `routes/web.php`, when the About and Contact pages both added routes, and we resolved it by keeping both routes and then fixed the Home route that went missing afterwards.
 main
+
+### Damia
+I built the About page, created my own branch, and opened a pull request so it could be reviewed and merged into main. When my About page and the Contact page both added routes in routes/web.php, it caused a merge conflict, and I helped resolve it by keeping both routes. I learned that Git collaboration only works smoothly when everyone works on their own branch and every change goes through a pull request, because direct edits to main are blocked and a teammate has to review the change first. I also learned that merge conflicts are normal when two people edit the same file, and that the fix is to read both versions carefully and keep the correct code from each. One challenge our team overcame was that we could not open the website at first. We troubleshot it together, checking the project folder name, the HTTPS setting in Herd, and the routes, until the site loaded at https://group7.test with the padlock showing.
 
 ### Shifa 
 My main contribution to the project was developing the Contacts page using Visual Studio Code (VS Code), where I coded and personalised the page to match our website’s design. I then pushed my changes to GitHub and created a pull request to merge my work. Throughout the project, I learned the importance of working in the correct branch instead of directly editing the main branch. I also gained experience in resolving merge conflicts. One challenge our team faced was getting the website to run without errors. We overcame this by troubleshooting together and using AI to identify and resolve the issues.
